@@ -32,4 +32,4 @@ An Electrical Engineering Undergraduate from University of Moratuwa, Sri Lanka.
 
 ---
 
-> Created with ❤️ by [Your Name]
+> Created by Dilshan Kularathna
