@@ -4,7 +4,7 @@ An Electrical Engineering Undergraduate from University of Moratuwa, Sri Lanka.
 
 ## Welcome to my GitHub Profile! 🚀
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=DilshanKularathna&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on **Digital Signal Processing and TinyML related Projects**.
 
