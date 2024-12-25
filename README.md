@@ -25,7 +25,7 @@ An Electrical Engineering Undergraduate from University of Moratuwa, Sri Lanka.
 ## Projects 👨‍💻
 
 1. **Advanced Light Intensity Indicator (ALII)** - [Repository](https://github.com/DilshanKularathna/Advanced-Light-Intensity-Indicator-ALII-)
-   - Description: [Brief description of the project]
+   - Description: The Advanced Light Intensity Indicator (ALII) is an innovative solution designed to monitor and indicate light intensity levels, providing an average intensity reading over a specified period. This module plays a crucial role in energy conservation by offering real-time data on light intensity, enabling more efficient use of artificial lighting systems.
 
 2. **Jack Chat Buddy** - [Repository](https://github.com/DilshanKularathna/jac-chat-buddy)
 
