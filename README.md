@@ -24,10 +24,10 @@ An Electrical Engineering Undergraduate from University of Moratuwa, Sri Lanka.
 
 ## Projects 👨‍💻
 
-1. **Advanced Light Intensity Indicator (ALII)** - [Repository](#)
+1. **Advanced Light Intensity Indicator (ALII)** - [Repository](https://github.com/DilshanKularathna/Advanced-Light-Intensity-Indicator-ALII-)
    - Description: [Brief description of the project]
 
-2. **[Project Name 2]** - [Repository](#)
+2. **Jack Chat Buddy** - [Repository](#)
    - Description: [Brief description of the project]
 
 ---
