@@ -27,7 +27,10 @@ An Electrical Engineering Undergraduate from University of Moratuwa, Sri Lanka.
 1. **Advanced Light Intensity Indicator (ALII)** - [Repository](https://github.com/DilshanKularathna/Advanced-Light-Intensity-Indicator-ALII-)
    - Description: The Advanced Light Intensity Indicator (ALII) is an innovative solution designed to monitor and indicate light intensity levels, providing an average intensity reading over a specified period. This module plays a crucial role in energy conservation by offering real-time data on light intensity, enabling more efficient use of artificial lighting systems.
 
-2. **Jack Chat Buddy** - [Repository](https://github.com/DilshanKularathna/jac-chat-buddy)
+2. **Autonomous Kitchen Waste Sorting Robot** - [Repository](https://github.com/DilshanKularathna/Autonomous-Kitchen-Waste-Sorting-Robots)
+   - Description: Efficient waste management is vital for environmental sustainability. Our project, the **Autonomous Kitchen Waste Sorting Robot**, aims to revolutionize how kitchen waste is handled by automating the sorting process. Using advanced sensors, cameras, and machine learning algorithms, the robot identifies and classifies waste as recyclable, compostable, or non-recyclable. A robotic arm then sorts the waste into designated bins with precision.
+
+3. **Jack Chat Buddy** - [Repository](https://github.com/DilshanKularathna/jac-chat-buddy)
 
 ---
 
