@@ -28,12 +28,12 @@ An Electrical Engineering Undergraduate from University of Moratuwa, Sri Lanka.
 2. **Autonomous Kitchen Waste Sorting Robot** - [Repository](https://github.com/DilshanKularathna/Autonomous-Kitchen-Waste-Sorting-Robots)
    - Description: Efficient waste management is vital for environmental sustainability. Our project, the **Autonomous Kitchen Waste Sorting Robot**, aims to revolutionize how kitchen waste is handled by automating the sorting process. Using advanced sensors, cameras, and machine learning algorithms, the robot identifies and classifies waste as recyclable, compostable, or non-recyclable. A robotic arm then sorts the waste into designated bins with precision.
 
-3. **Jack Chat Buddy** - [Repository](https://github.com/DilshanKularathna/jac-chat-buddy)
-
-4. **Automated Fish Tank** - [Repository](https://github.com/DilshanKularathna/EE-2044-Project)
+3. **Automated Fish Tank** - [Repository](https://github.com/DilshanKularathna/EE-2044-Project)
    - Description: This project focuses on developing an automated fish tank system tailored for industrial ornamental fish breeding facilities, with the goal of enhancing the stability and quality of breeding environments.
    - The system utilizes pH, temperature, and water level sensors to continuously monitor tank conditions. Based on real-time sensor data, it automatically regulates pH levels, temperature, and water levels to maintain optimal parameters. All data acquisition and control logic are implemented using LabVIEW.
    - Additionally, a remote monitoring dashboard has been developed using MQTT and Node-RED, enabling real-time visualization and supervision over the network. A local LCD display is also integrated into the system to provide on-site feedback on tank conditions. This combination of automation and monitoring improves system reliability, responsiveness, and ease of maintenance.
+
+4. **Jack Chat Buddy** - [Repository](https://github.com/DilshanKularathna/jac-chat-buddy)
 
 
 ---
